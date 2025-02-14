@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kodchakarn
 - 👀 I’m interested in coffee,truffle and pizza!
-- 🌱 I’m currently learning MyQSL
-- 💞️ I’m looking to collaborate on back-end project
+- 🌱 I’m currently learning JavaScript
+- 💞️ I’m looking to collaborate on IOT Project
 - 📫 How to reach me kodchakarn.p@gmail.com
 
 <!---
