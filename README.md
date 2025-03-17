@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kodchakarn
-- 👀 I’m interested in coffee,truffle and pizza!
+- 👀 I’m interested in coffee,sushi and pizza!
 - 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on IOT Project
+- 💞️ I’m looking to collaborate on IOT Project, AI Project and Generative Art
 - 📫 How to reach me kodchakarn.p@gmail.com
 
 <!---
